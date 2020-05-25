@@ -2,9 +2,7 @@
 package Prog.gl.exercices;
 
 import static org.junit.Assert.*;
-
 import java.util.ArrayList;
-
 import org.junit.Test;
 
 public class emplyeTest {
