@@ -7,7 +7,8 @@ public class Manager extends allEmploye {
 	public Manager(int Nb_Employe) {
 		this.Nb_Employe = Nb_Employe;
 	}
-
+	
+	/**/
 
 	public double salaire() {
 		
